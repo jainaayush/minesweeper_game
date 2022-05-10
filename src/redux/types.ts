@@ -1,0 +1,4 @@
+export const types = {
+    CHANNEL_CONNECT : "CHANNEL_CONNECT",
+    CHANNEL_DISCONNECT : "CHANNEL_DISCONNECT"
+}
